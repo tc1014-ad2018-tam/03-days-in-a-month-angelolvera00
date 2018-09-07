@@ -1,0 +1,3 @@
+C:/Users/USUARIO FINAL/CLionProjects/Years/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/USUARIO FINAL/CLionProjects/Years/cmake-build-debug/CMakeFiles/Years.dir
+C:/Users/USUARIO FINAL/CLionProjects/Years/cmake-build-debug/CMakeFiles/edit_cache.dir
